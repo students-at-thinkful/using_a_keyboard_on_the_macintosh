@@ -2,3 +2,9 @@
 
 ###### Mac keyboard shortcuts
 https://support.apple.com/en-us/HT201236
+
+###### Command key
+https://en.wikipedia.org/wiki/Command_key
+
+###### Modifier key
+https://en.wikipedia.org/wiki/Modifier_key
