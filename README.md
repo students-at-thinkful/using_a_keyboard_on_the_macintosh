@@ -65,17 +65,17 @@ https://en.wikipedia.org/wiki/Undo
 https://en.wikipedia.org/wiki/Control-Y
 
 ###### Command S ( save )
-https://en.wikipedia.org/wiki/Control-S 
-https://en.wikipedia.org/wiki/File_manager 
-https://en.wikipedia.org/wiki/Computer_file 
-https://en.wikipedia.org/wiki/Directory_(computing) 
-https://en.wikipedia.org/wiki/Directory_structure 
-https://en.wikipedia.org/wiki/File_system 
-https://en.wikipedia.org/wiki/Filename_extension 
-https://en.wikipedia.org/wiki/Filename 
-https://en.wikipedia.org/wiki/List_of_file_formats 
-https://en.wikipedia.org/wiki/MIME#Content-Type 
-https://en.wikipedia.org/wiki/Document_file_format 
+* https://en.wikipedia.org/wiki/Control-S 
+* https://en.wikipedia.org/wiki/File_manager 
+* https://en.wikipedia.org/wiki/Computer_file 
+* https://en.wikipedia.org/wiki/Directory_(computing) 
+* https://en.wikipedia.org/wiki/Directory_structure 
+* https://en.wikipedia.org/wiki/File_system 
+* https://en.wikipedia.org/wiki/Filename_extension 
+* https://en.wikipedia.org/wiki/Filename 
+* https://en.wikipedia.org/wiki/List_of_file_formats 
+* https://en.wikipedia.org/wiki/MIME#Content-Type 
+* https://en.wikipedia.org/wiki/Document_file_format 
 
 ###### Command Q ( quit )
 https://en.wikipedia.org/wiki/Exit_(system_call)
