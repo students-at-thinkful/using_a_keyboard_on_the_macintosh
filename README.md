@@ -8,3 +8,6 @@ https://en.wikipedia.org/wiki/Command_key
 
 ###### Modifier key
 https://en.wikipedia.org/wiki/Modifier_key
+
+###### Keyboard shortcut
+https://en.wikipedia.org/wiki/Keyboard_shortcut
