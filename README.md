@@ -89,5 +89,22 @@ https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard
 ###### Command Q ( quit )
 * https://en.wikipedia.org/wiki/Exit_(system_call)
 
+###### Bracket Keys
+* https://en.wikipedia.org/wiki/Bracket
+
+###### Quotation Mark Keys
+https://en.wikipedia.org/wiki/Quotation_mark
+
+###### Underscore Key
+https://en.wikipedia.org/wiki/Underscore
+
+###### Slash Key
+https://en.wikipedia.org/wiki/Slash_(punctuation)
+
+###### Ampersand Key
+https://en.wikipedia.org/wiki/Ampersand
+
+###### Number sign
+https://en.wikipedia.org/wiki/Number_sign
 
 
