@@ -42,6 +42,9 @@
 ###### Apple Keyboard
 * https://en.wikipedia.org/wiki/Apple_Keyboard
 
+###### Keyboard layout
+https://en.wikipedia.org/wiki/Keyboard_layout
+
 ###### QWERTY
 * https://en.wikipedia.org/wiki/QWERTY
 
