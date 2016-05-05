@@ -45,6 +45,9 @@
 ###### Keyboard layout
 https://en.wikipedia.org/wiki/Keyboard_layout
 
+###### Keyboard layout/chart
+https://en.wikipedia.org/wiki/Keyboard_layout/chart
+
 ###### QWERTY
 * https://en.wikipedia.org/wiki/QWERTY
 
