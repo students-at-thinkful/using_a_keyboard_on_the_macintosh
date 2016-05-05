@@ -18,3 +18,22 @@ https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts
 ###### Keyboard technology
 https://en.wikipedia.org/wiki/Keyboard_technology
 
+###### Shift key
+https://en.wikipedia.org/wiki/Shift_key
+
+###### Option key
+https://en.wikipedia.org/wiki/Option_key
+
+###### Alt key
+https://en.wikipedia.org/wiki/Alt_key
+
+##### Space bar
+https://en.wikipedia.org/wiki/Space_bar
+
+##### Control key
+https://en.wikipedia.org/wiki/Control_key
+
+##### Arrow keys
+https://en.wikipedia.org/wiki/Arrow_keys
+
+
