@@ -11,3 +11,10 @@ https://en.wikipedia.org/wiki/Modifier_key
 
 ###### Keyboard shortcut
 https://en.wikipedia.org/wiki/Keyboard_shortcut
+
+###### Table of keyboard shortcuts
+https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts
+
+###### Keyboard technology
+https://en.wikipedia.org/wiki/Keyboard_technology
+
